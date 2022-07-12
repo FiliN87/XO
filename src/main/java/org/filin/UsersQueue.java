@@ -12,5 +12,6 @@ public class UsersQueue {
             listA.add("element 1");
             listA.add("element 2");
             listA.add("element 3");
-        public void addUser =
+        public void addUser = 5;
+
 }
